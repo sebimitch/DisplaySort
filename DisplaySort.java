@@ -23,7 +23,7 @@ import javafx.scene.layout.HBox;
 import javafx.application.Platform;
 import java.lang.Math;
 
-public class SortDisplay extends Application {
+public class DisplaySort extends Application {
     protected int[] array;
     private int minTall = 20;
     private int maksTall = 1000;
